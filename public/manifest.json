@@ -2,7 +2,7 @@
   "name": "Neighborhood Explorer - Fog of War",
   "short_name": "NeighborExplorer",
   "description": "Explora tu barrio, descubre lugares saludables y desbloquea recetas sin sal",
-  "start_url": "/",
+  "start_url": "/neighborhood-explorer/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
